@@ -1,4 +1,4 @@
-# TheZone_Last_Project_SSF
+# TheZone_Last_Project_SSF_
 20211109 ~ 20211217 더존비즈온 최종 프로젝트 SSF
 스트리밍 서비스 플랫폼 개발 환경
 
